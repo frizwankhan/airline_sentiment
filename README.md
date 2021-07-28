@@ -19,3 +19,10 @@ The Jason body should be in this format:
 To open swagger documentation open http://0.0.0.0:5000/docs
 
 Here is the endpoint of heroku app:https://frizwankhan-airline-sentiment.herokuapp.com/
+
+### Docker image
+
+To pull the docker image run:
+```
+docker pull frizwankhan/sentiment-api
+```
